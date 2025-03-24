@@ -4,6 +4,7 @@ title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
 download_cv: assets/docs/Template_CV.pdf
+robots: noindex 
 ---
 
 ## Formation 
