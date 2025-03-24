@@ -3,6 +3,7 @@ title: Projet 1
 subtitle: Projet algorithmique
 layout: product
 image: https://via.placeholder.com/640x480
+robots: noindex 
 ---
 
 
