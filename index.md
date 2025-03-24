@@ -6,6 +6,7 @@ menubar: menu_bar
 hero_image: assets/imgs/image.png
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
+robots: noindex 
 ---
 
 # Prénom NOM
